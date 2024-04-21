@@ -10,9 +10,9 @@ Module providing WiFi access to a CBUS Network
 
 ## CBUS CANLock Module
 Module for providing signalling interlocking - replicating a mechanically locked signal frame
-[CANPicoWi](https://kkimber.github.io/CANLock)
+[CANLock](https://kkimber.github.io/CANLock)
 
 ## CBUS CANBlock Module
 Module operating as a signalling block instrument - can work with CANLock for a complete singalling solution
-[CANPicoWi](https://kkimber.github.io/CANBlock)
+[CANBlock](https://kkimber.github.io/CANBlock)
 
