@@ -13,6 +13,6 @@ Module for providing signalling interlocking - replicating a mechanically locked
 [CANLock](https://kkimber.github.io/CANLock)
 
 ## CBUS CANBlock Module
-Module operating as a signalling block instrument - can work with CANLock for a complete singalling solution
+Module operating as a signalling block instrument - can work with CANLock for a complete sigalling solution
 [CANBlock](https://kkimber.github.io/CANBlock)
 
